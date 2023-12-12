@@ -35,9 +35,13 @@ When engaging in the scraping of YouTube content, it is crucial to approach it e
 REQUIRED LIBRARIES:
 
 1.googleapiclient.discovery
+
 2.streamlit
+
 3.psycopg2
+
 4.pymongo
+
 5.pandas
 
 FEATURES: The following functions are available in the YouTube Data Harvesting and Warehousing application,
